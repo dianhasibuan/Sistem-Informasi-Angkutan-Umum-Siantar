@@ -1,0 +1,38 @@
+.yell{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.pict{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+
+
+.testimonial {
+    background: #E8FFFF;
+    padding: 60px 0px;
+}
+
+.testimonial .titlepage {
+    text-align: center;
+}
+
+.testimonial .titlepage h3 {
+    padding: 0px 0px 6px 0px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+    line-height: 46px;
+    border-bottom: #fff solid 1px;
+    width: 184px;
+    margin: 0 auto;
+    margin-bottom: 60px;
+}
+button {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
